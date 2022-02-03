@@ -1,0 +1,12 @@
+Connect to the VPN:
+follow these instructions to connect to the vpn:
+https://www.wichita.edu/services/its/ITSApplicationsTraining/VPNWIndows.php
+
+Once connected go to this website:
+10.50.208.17:8080/
+
+Then for the login type:
+pipe_wan@gmail.com
+
+password:
+fourpipeWAN
